@@ -2,7 +2,7 @@
  Global Fire Dashboard backend
 
 ## Requirements
-Server requires pg-native. You need PostgreSQL client libraries & tools installed. More info here: [https://github.com/brianc/node-pg-native#install](https://github.com/brianc/node-pg-native#install)
+Server requires pg-native, so you will need PostgreSQL client libraries & tools installed. More info here: [https://github.com/brianc/node-pg-native#install](https://github.com/brianc/node-pg-native#install)
 
 ## Installation
 ```shell
